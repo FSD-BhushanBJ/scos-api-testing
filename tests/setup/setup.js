@@ -1,7 +1,3 @@
-beforeAll(() => {
-  console.log("API Testing Started");
-});
+beforeAll(() => {});
 
-afterAll(() => {
-  console.log("API Testing Completed");
-});
+afterAll(() => {});
